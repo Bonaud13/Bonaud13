@@ -1,5 +1,7 @@
 # Olá! Eu sou Geison Bonaud 🫶
 
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas com a programação.
+
 ## Conecte-se comigo.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geison-bonaud-8173b8231/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GBonaud)
@@ -19,4 +21,4 @@
 ## GitHub Stats
 ![Bonaud13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonaud13&show_icons=true&theme=radical)
 
-Apaixonado por tecnologia, a educação e por mudar a vida das pessoas com a programação.
+
