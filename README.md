@@ -4,8 +4,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas com a progr
 
 ## Conecte-se comigo.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geison-bonaud-8173b8231/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GBonaud)
-[![twitter](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3JMV4xEvG8)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/Bonand13/)
 
 
