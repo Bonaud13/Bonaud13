@@ -1,7 +1,7 @@
 # Olá! Eu sou Geison Bonaud 🫶
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas com a programação.
-Estudante de Engenharia de Software, em busca de oportunidade como **Estagiário** ou **Desenvolvedor Júnior Back-End**.
+Estudante de Engenharia de Software, em busca de oportunidade como **Estagiário** ou **Desenvolvedor Júnior**.
 
 ## Conecte-se comigo
 
