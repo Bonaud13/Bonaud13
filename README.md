@@ -54,9 +54,5 @@ Estudante de Engenharia de Software, em busca de oportunidade como **Estagiário
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Bonaud13&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Bonaud13" />
-</p>
-
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bonaud13&layout=compact&theme=radical" alt="Linguagens mais usadas por Bonaud13" />
 </p>
