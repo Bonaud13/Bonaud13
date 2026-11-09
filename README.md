@@ -63,6 +63,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Ferramentas**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -76,12 +77,6 @@
 ## Idiomas
 
 🇧🇷 Português — nativo · 🇺🇸 Inglês — intermediário · 🇪🇸 Espanhol — básico
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bonaud13&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas por Bonaud13" />
-</p>
 
 ---
 
