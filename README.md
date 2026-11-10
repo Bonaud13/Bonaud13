@@ -30,7 +30,7 @@
 | **[Bolão Copa 2026](https://github.com/Bonaud13/Bolao-de-Futebol)** | Bolão da fase de grupos com login, palpites por rodada, pontuação automática, ranking geral e semanal, painel admin e log de auditoria em tempo real. | JavaScript (ES Modules) · Firebase Realtime Database |
 | **[MarketFlow](https://github.com/Bonaud13/MarketFlow)** | PDV e controle de estoque para uma rede de 3 lojas: vendas, desconto de fidelidade, cupom, alerta de estoque mínimo e relatório de giro. Projeto de faculdade com requisitos e classes documentados. | Java 21 · POO · UML |
 | **[TechStore](https://github.com/Bonaud13/TechStore)** | Loja virtual com carrinho, página de contato e área admin. | HTML · CSS · JavaScript · PHP |
-| **HOME FINANCE** · em desenvolvimento | App iOS para gestão financeira de uma casa compartilhada: receitas e despesas, divisão entre moradores, contas fixas recorrentes e custo da casa. Banco com RLS e testes automatizados. | React Native · Expo · TypeScript · Supabase |
+| **HOME FINANCE** · em desenvolvimento | App iOS para gestão financeira de uma casa compartilhada: receitas e despesas, divisão entre moradores, contas fixas recorrentes e custo da casa. Banco com RLS e testes automatizados. | React Native · Expo · TypeScript · Supabase | <a href ="https://home-finance-naud.vercel.app">Home Finance</a?
 
 > O HOME FINANCE tem repositório privado, mas posso mostrar o app e o código em uma conversa.
 
